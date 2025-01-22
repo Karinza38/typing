@@ -1,4 +1,4 @@
-# Static Typing for Python
+ # Static Typing for Python
 
 ## Documentation and Support
 
